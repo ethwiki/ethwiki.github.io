@@ -1,4 +1,4 @@
-baseURL = "https://ethwiki.github.io/"
+baseURL = "https://ethwiki.github.io/public/"
 languageCode = "en-us"
 title = "ETHWiki. A wiki for dev status on ETH2.0"
 theme = "book"

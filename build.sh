@@ -1,2 +1,3 @@
 #!/bin/bash
-hugo --source src -b https://ethwiki.github.io/public/ --minify
+hugo  --minify --source src/ -d public/  --baseURL https://ethwiki.github.io/public/
+mv src/public .
