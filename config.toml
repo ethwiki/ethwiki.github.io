@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ETHWiki. A wiki for dev status on ETH2.0"
+theme = "book"
